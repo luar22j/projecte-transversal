@@ -1,0 +1,24 @@
+{
+    "name": "burgersandroll",
+    "version": "1.0.0",
+    "description": "Sistema de gestión para Burgers and Roll",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "dependencies": {
+        "alpinejs": "^3.13.5",
+        "axios": "^1.9.0",
+        "daisyui": "^5.0.35",
+        "jquery": "^3.7.1",
+        "toastr": "^2.1.4"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.17",
+        "laravel-vite-plugin": "^1.0.0",
+        "postcss": "^8.4.35",
+        "tailwindcss": "^3.4.1",
+        "vite": "^5.1.4"
+    }
+}

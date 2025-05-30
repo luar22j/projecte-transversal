@@ -1,0 +1,7 @@
+@media (max-width: 428px) {
+    .header-admin {
+        flex-direction: column;
+        height: auto !important;
+        padding: 0.5rem 0;
+    }
+}
